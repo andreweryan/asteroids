@@ -1,7 +1,7 @@
 # Asteroids game in Python
 
 <p align="center">
-  <img src="assets/game.png">
+  <img src="assets/game.png", width="450" height="350">
 </p>
 
 Extending the Project:
