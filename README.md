@@ -1,5 +1,9 @@
 # Asteroids game in Python
 
+<p align="center">
+  <img src="assets/game.png">
+</p>
+
 Extending the Project:
 - [ ] Add a scoring system
 - [ ] Implement multiple lives and respawning
