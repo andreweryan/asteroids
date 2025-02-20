@@ -1,6 +1,6 @@
-# asteroids
+# Asteroids game in Python
 
-Extending the Project
+Extending the Project:
 - [ ] Add a scoring system
 - [ ] Implement multiple lives and respawning
 - [ ] Add an explosion effect for the asteroids
